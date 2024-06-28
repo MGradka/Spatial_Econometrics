@@ -13,7 +13,7 @@ Before running the scraping program, make sure to follow these steps:
 ```ini
 [WebDriver]
 geckodriver_path = /Path/to/geckodriver
-
+```
 
 ## Description of the project
 

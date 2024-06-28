@@ -13,3 +13,11 @@ Before running the scraping program, make sure to follow these steps:
 ```ini
 [WebDriver]
 geckodriver_path = /Path/to/geckodriver
+
+
+## Description of the project
+
+1. Webscrapping of data from OLX [code for webscrapping](scrapper_olx.py)
+2. Cleaning and preparation of the data [code for preparation](Data_preparation.ipynb)
+3. Manual adjustments of the [data](Data_cleaned.xlsx)
+4. Analysis of the data [code for analysis](spatial_analysis.ipynb)
